@@ -1,0 +1,15 @@
+{
+	"name": "calexdev/composer",
+	"description": "Login Facebook",
+	"type": "project",
+	"authors":[
+		{
+			"name": "Carlos Alexandre",
+			"email": "carlosdufry@hotmail.com"
+		}
+	],
+	"minimun-stability": "dev",
+	"require": {
+		"league/oauth2-facebbok": "2.0.*"
+	}
+}
